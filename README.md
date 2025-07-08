@@ -89,7 +89,7 @@ Dedicated **Data Scientist** with hands-on experience in machine learning, deep 
 
 ## 📂 Featured Repositories
 
-- 🔗 [Generative_AI](https://github.com/omkarbhosale1623/Generative-AI))
+- 🔗 [Generative_AI](https://github.com/omkarbhosale1623/Generative-AI)
 - 🔗 [LLM & Large Image Model with Gemini-Pro](https://github.com/omkarbhosale1623/LLM-Large-Image-Model-with-Gemini-Pro)
 
 ---
