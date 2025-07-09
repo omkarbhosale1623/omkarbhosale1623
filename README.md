@@ -66,16 +66,17 @@ Nandigama, Hyderabad, India *(June 2017 – May 2019)*
 
 ## 📜 Certifications
 
-- **Python Essentials for MLOps** — [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/F7AN4D24Q5UT)  
-  A certification focusing on the essentials of Python in the context of MLOps.
+- **Python Essentials for MLOps** *(Coursera, Duke University)* — [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/F7AN4D24Q5UT)  
+  A certification focusing on the essentials of Python in the context of MLOps from Duke University.
 
-- **Full Stack Data Science** — [View Certificate](https://drive.google.com/file/d/1dObAGbDNqQ12E3A2xrewMx9kQXReO0C/view)  
+- **Full Stack Data Science** *(Data Council)* — [View Certificate](https://drive.google.com/file/d/1dObAGbDNqQ12E3A2xrewMx9kQXReO0C/view)  
   Covers skills required for full-stack data science, from data gathering to deployment.
 
-- **Machine Learning Specialization** — [Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/5I2RA6WC9U9M)  
-  In-depth knowledge of machine learning concepts and applications.
+- **Machine Learning Specialization** *(Coursera, Stanford University)* — [Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/5I2RA6WC9U9M)  
+  In-depth knowledge of machine learning concepts and applications taught by Andrew Ng.
 
 - **Career Essentials in Generative AI** *(Microsoft & LinkedIn)* — [View Certificate](https://www.linkedin.com/learning/certificates/c33776d6479e98acef725c61eaeabfe2bdc76ce45a02574360b5386fa1529dfa)
+  
 ---
 
 ## 🏆 Projects
