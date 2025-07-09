@@ -54,6 +54,28 @@ Dedicated **Data Scientist** with hands-on experience in machine learning, deep 
 **B.Tech in Artificial Intelligence and Data Science**  
 **NKOCET, Solapur | DBATU** *(2021 – 2025)*
 
+**Narayana Junior College** — Physics, Mathematics, Chemistry *(Intermediate)*  
+Pati, Hyderabad, India *(June 2019 – August 2021)*  
+**Percentage:** 68%
+
+**Narayana E-Techno School** — SSC  
+Nandigama, Hyderabad, India *(June 2017 – May 2019)*  
+**CGPA:** 8.8
+
+---
+
+## 📜 Certifications
+
+- **Python Essentials for MLOps** — [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/F7AN4D24Q5UT)  
+  A certification focusing on the essentials of Python in the context of MLOps.
+
+- **Full Stack Data Science** — [View Certificate](https://drive.google.com/file/d/1dObAGbDNqQ12E3A2xrewMx9kQXReO0C/view)  
+  Covers skills required for full-stack data science, from data gathering to deployment.
+
+- **Machine Learning Specialization** — [Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/5I2RA6WC9U9M)  
+  In-depth knowledge of machine learning concepts and applications.
+
+- **Career Essentials in Generative AI** *(Microsoft & LinkedIn)* — [View Certificate](https://www.linkedin.com/learning/certificates/c33776d6479e98acef725c61eaeabfe2bdc76ce45a02574360b5386fa1529dfa)
 ---
 
 ## 🏆 Projects
