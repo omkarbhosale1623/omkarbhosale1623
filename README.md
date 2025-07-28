@@ -13,25 +13,6 @@ Dedicated **Data Scientist** with hands-on experience in machine learning, deep 
 
 ---
 
-## 💼 Work Experience
-
-### Data Scientist — Maestro Intellect *(Jan 2025 – Present)*
-**Pune, India**
-
-#### ✅ Loan Sanction Propensity Model
-- Built a **loan sanction propensity model** to optimize approval rates and minimize risk.
-- Conducted EDA and presented insights to the business team.
-- Automated ETL pipelines using **Apache Airflow**.
-- Completed UAT, documentation, and collaborated with DevOps to deploy on **AWS**.
-- 📈 **Result**: 35% increase in loan processing business.
-
-#### ✅ Health Insurance Fraud Detection
-- Built a **fraud detection model** using Random Forest (96% accuracy after feature selection with PCA, Chi2, ANOVA).
-- Preprocessed **1.5M+** records with techniques like SMOTE, encoding, and outlier handling.
-- Designed an **end-to-end Flask API pipeline** for real-time integration with claim systems.
-- 💰 **Result**: Reduced fraudulent payouts, saving significant operational costs.
-
----
 
 ## 🛠️ Skills
 
@@ -40,7 +21,7 @@ Dedicated **Data Scientist** with hands-on experience in machine learning, deep 
 | **Languages**       | Python, C++                                                                            |
 | **Python Packages** | NumPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, Transformers, OpenAI, LangChain      |
 | **Databases**       | MySQL, MongoDB                                                                         |
-| **Web Stack**       | Flask, FastAPI, Streamlit                                                              |
+| **Frameworks**       | Flask, FastAPI, Streamlit, LangGraph                                                              |
 | **Cloud & Tools**   | AWS, Docker, Apache Airflow                                                            |
 | **Gen AI**          | LLMs, LLAMA, GPT, RAG, Transformers                                                    |
 | **ML/DL**           | Linear/Logistic Regression, SVM, Decision Tree, Random Forest, Boosting, ANN, CNN, RNN |
