@@ -1,7 +1,7 @@
-# 👋 Hi, I’m [Omkar Bhosale]  
+# 👋 Hi, I’m Omkar Bhosale  
 ### AI Engineer | ML & Deep Learning Enthusiast | LLM / Generative AI Specialist
 
-![AI GIF](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)  
+![AI GIF](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)
 
 ---
 
@@ -10,6 +10,7 @@ I am passionate about **Generative AI, Machine Learning, Deep Learning, and Data
 I build **AI-powered assistants, RAG-based chatbots, predictive models, and intelligent dashboards**.  
 
 💡 **Publications & Patents:** Multimodal AI, Deepfake detection, Lip Reading.  
+📄 **Paper:** [A Unified Deep Learning Framework for Lip Reading & Deepfake Audio Classification](https://ieeexplore.ieee.org/document/11039390)
 
 ---
 
@@ -106,12 +107,12 @@ I build **AI-powered assistants, RAG-based chatbots, predictive models, and inte
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarbhosale1623&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/omkar-bhosale-75a18122a/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-bhosale-75a18122a/)  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarbhosale1623@gmail.com)  
 
 ---
