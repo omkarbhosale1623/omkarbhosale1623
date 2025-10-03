@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Omkar Bhosale  
 ### AI Engineer | ML & Deep Learning Enthusiast | LLM / Generative AI Specialist
 
-![AI GIF]((https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWs4MWFjMTgyMWwwYnluczFqd2gxb2VvdnFya3l0MWVsdXExeXk2ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5k5vZwRFZR5aZeniqb/giphy.gif))
+![AI GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWs4MWFjMTgyMWwwYnluczFqd2gxb2VvdnFya3l0MWVsdXExeXk2ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5k5vZwRFZR5aZeniqb/giphy.gif)
 
 ---
 
