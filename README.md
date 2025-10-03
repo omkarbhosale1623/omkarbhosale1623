@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Omkar Bhosale  
 ### AI Engineer | ML & Deep Learning Enthusiast | LLM / Generative AI Specialist
 
-![AI GIF](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)
+![AI GIF]((https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWs4MWFjMTgyMWwwYnluczFqd2gxb2VvdnFya3l0MWVsdXExeXk2ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5k5vZwRFZR5aZeniqb/giphy.gif))
 
 ---
 
@@ -56,43 +56,53 @@ I build **AI-powered assistants, RAG-based chatbots, predictive models, and inte
 
 ## 🔥 Featured Projects
 
-### 1️⃣ GenAI SQL-Powered AI Assistant + Auto Dashboard
-![SQL GIF](https://media.giphy.com/media/xUPGcsu5yQ0jtpVR5K/giphy.gif)
-- Multilingual SQL assistant with **speech & text queries**  
-- Auto-KPI dashboards with **line, bar, pie, scatter visualizations**  
+### 1️⃣ GenAI SQL-Powered AI Assistant + Auto Dashboard | Oct 2025  
+- Built **multilingual SQL assistant** supporting natural language & speech queries.  
+- Integrated **EURI LLM** for SQL generation & visualizations (line, bar, pie, scatter).  
+- Designed personalized dashboards with **auto-KPI detection** & customization.  
 **Tech:** Python, Streamlit, SQLAlchemy, Plotly, SpeechRecognition, EURI LLM  
-[GitHub Repo](https://github.com/omkarbhosale1623/GenAI-SQL-Query-Assistant)
+[GitHub Repo](https://github.com/omkarbhosale1623/GenAI-SQL-Query-Assistant)  
 
 ---
 
-### 2️⃣ Bank of Maharashtra Loan Product Assistant (RAG Chatbot)
-![Chatbot GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
-- RAG-based chatbot for **instant loan product queries**  
-- LangChain + HuggingFace embeddings + FAISS, deployed on Streamlit  
-[GitHub Repo](https://github.com/omkarbhosale1623/Bank-of-Maharashtra-Loan-Product-Assistant-using-RAG)
+### 2️⃣ Bank of Maharashtra Loan Product Assistant (RAG Chatbot) | Sep 2025  
+- Developed **RAG-based chatbot** for instant & accurate loan product queries.  
+- Used LangChain + HuggingFace embeddings + FAISS, deployed on Streamlit.  
+- Integrated EURI API for secure & controlled LLM access.  
+[GitHub Repo](https://github.com/omkarbhosale1623/Bank-of-Maharashtra-Loan-Product-Assistant-using-RAG)  
 
 ---
 
-### 3️⃣ Stock Price Prediction with LSTM
-![Stock GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-- LSTM-based **forecasting** for Tata Motors & M&M  
-- Interactive 30/90-day **visual prediction system**  
-[GitHub Repo](https://github.com/omkarbhosale1623/Hybrid-approach-for-Stock-Price-Prediction-with-LSTM-Neural-Network-using-Deep-Learning-Techniques)
+### 3️⃣ Stock Price Prediction with LSTM (ICDSAI 2024) | Nov 2023 – May 2024  
+- Built **LSTM model** for Tata Motors & M&M stock price forecasting.  
+- Created **interactive 30/90-day prediction system** with visualizations & insights.  
+[GitHub Repo](https://github.com/omkarbhosale1623/Hybrid-approach-for-Stock-Price-Prediction-with-LSTM-Neural-Network-using-Deep-Learning-Techniques)  
 
 ---
 
-### 4️⃣ End-to-End ML Pipeline (Diabetes Prediction)
-![Pipeline GIF](https://media.giphy.com/media/l0HlN8Qz8cN3nP1g0/giphy.gif)
-- Automated preprocessing, training & evaluation  
-- Reproducible ML pipeline using Git, DVC, MLflow & DagsHub  
-[GitHub Repo](https://github.com/omkarbhosale1623/End-to-End-Machine-Learning-Pipeline-Using-GIT-DVC-MLFLOW-And-DAGSHUB)
+### 4️⃣ End-to-End ML Pipeline (Wine Quality Prediction) | Jul 2025  
+- Automated preprocessing, training (Random Forest + GridSearchCV), and evaluation.  
+- Implemented **version-controlled ML pipeline** with Git, DVC, MLflow & DagsHub.  
+[GitHub Repo](https://github.com/omkarbhosale1623/End-to-End-Machine-Learning-Pipeline-Using-GIT-DVC-MLFLOW-And-DAGSHUB)  
 
 ---
 
-### 5️⃣ Other Projects
-- Inventory Management System – E-commerce Analytics  
-- Secure Authentication & Role-Based Access Control (Admin, Moderator, User)  
-- Sentiment Analysis (76% acc), Handwritten Digit Recognition, Salary Estimation, Breast Cancer Classification  
+### 5️⃣ Other Projects  
+- **Inventory Management System** – E-commerce database & analytics  
+- **Secure Authentication & Role-Based Access Control** – Admin, Moderator, User roles  
+- **Sentiment Analysis on Airline Tweets** (76% accuracy)  
+- **Handwritten Digit Recognition (SVM)**, **Salary Estimation (KNN)**, **Breast Cancer Classification (XGBoost)**  
+
+---
+
+## 📚 Publications & Patents
+
+### Publications
+- **A Unified Deep Learning Framework for Lip Reading and Deepfake Audio Classification**, IEEE ISPCC 2025  
+- **Stock Price Prediction with LSTM**, ICDSAI 2024  
+
+### Patents
+- **System and Method for Real-Time Audiovisual Deepfake Detection Using Lip Reading and Audio Feature Fusion** – Patent No. 202541059722, Issued Jul 2025   
 
 ---
 
