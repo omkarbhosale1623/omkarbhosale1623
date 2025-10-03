@@ -1,108 +1,98 @@
-# Omkar Bhosale
+# 👋 Hi, I’m [Omkar Bhosale]  
+### AI Engineer | ML & Deep Learning Enthusiast | LLM / Generative AI Specialist
 
-**Data Scientist | Machine Learning | Deep Learning | Generative AI | Full Stack AI Developer | LLM & Agentic AI**  
-📍 Pune, Maharashtra, India  
-📧 omkarbhosale1623@gmail.com | 📞 +91 7559173480  
-🔗 [GitHub](https://github.com/omkarbhosale1623) | [LinkedIn](https://www.linkedin.com/in/omkar-bhosale-75a18122a/)
+![Header GIF](https://media.giphy.com/media/3ohs7KViF9Y8kmQp4c/giphy.gif)
 
 ---
 
-## 📌 Profile Summary
+## 🚀 About Me
+I am passionate about **Generative AI, Machine Learning, Deep Learning, and Data Analytics**. I love building **AI-powered assistants, RAG-based chatbots, predictive models, and intelligent dashboards**.  
 
-Dedicated **Data Scientist** with hands-on experience in machine learning, deep learning, and AWS deployment. Skilled in Python, SQL, neural networks, Flask, Apache Airflow, and Generative AI tools. Successfully deployed models in production with seamless automation and model tracking. Passionate about applying AI to real-world challenges and continuously expanding technical skills.
-
----
-
-
-## 🛠️ Skills
-
-| Category            | Skills                                                                                 |
-|---------------------|----------------------------------------------------------------------------------------|
-| **Languages**       | Python, C++                                                                            |
-| **Python Packages** | NumPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, Transformers, OpenAI, LangChain      |
-| **Databases**       | MySQL, MongoDB                                                                         |
-| **Frameworks**       | Flask, FastAPI, Streamlit, LangGraph                                                              |
-| **Cloud & Tools**   | AWS, Docker, Apache Airflow                                                            |
-| **Gen AI**          | LLMs, LLAMA, GPT, RAG, Transformers                                                    |
-| **ML/DL**           | Linear/Logistic Regression, SVM, Decision Tree, Random Forest, Boosting, ANN, CNN, RNN |
-| **NLP**             | Word2Vec, SpaCy, NLTK                                                                  |
-| **Others**          | Hypothesis Testing, Probability, Statistics, Computer Vision (OpenCV), GANs            |
+💡 I also have publications and patents in **multimodal AI (audio+video)** and **deepfake detection**.  
 
 ---
 
-## 🎓 Education
+## 🛠️ Skills & Tools
 
-**B.Tech in Artificial Intelligence and Data Science**  
-**NKOCET, Solapur | DBATU** *(2021 – 2025)*
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=blue)
+![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-F7900B?style=flat&logo=huggingface&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-13A4B4?style=flat&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-**Narayana Junior College** — Physics, Mathematics, Chemistry *(Intermediate)*  
-Pati, Hyderabad, India *(June 2019 – August 2021)*  
-**Percentage:** 68%
-
-**Narayana E-Techno School** — SSC  
-Nandigama, Hyderabad, India *(June 2017 – May 2019)*  
-**CGPA:** 8.8
-
----
-
-## 📜 Certifications
-
-- **Python Essentials for MLOps** *(Coursera, Duke University)* — [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/F7AN4D24Q5UT)  
-  A certification focusing on the essentials of Python in the context of MLOps from Duke University.
-
-- **Full Stack Data Science** *(Data Council)* — [View Certificate](https://drive.google.com/file/d/1dObAGbDNqQ12E3A2xrewMx-9kQXReO0C/view)  
-  Covers skills required for full-stack data science, from data gathering to deployment.
-
-- **Machine Learning Specialization** *(Coursera, Stanford University)* — [Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/5I2RA6WC9U9M)  
-  In-depth knowledge of machine learning concepts and applications taught by Andrew Ng.
-
-- **Career Essentials in Generative AI** *(Microsoft & LinkedIn)* — [View Certificate](https://www.linkedin.com/learning/certificates/c33776d6479e98acef725c61eaeabfe2bdc76ce45a02574360b5386fa1529dfa)
-  
----
-
-## 🏆 Projects
-
-- **LLM-based RAG Chatbot System** (Hugging Face Transformers)
-- **Multimodal AI System**
-  - 🎥 Lip Reading with LipNet Model
-  - 🎙️ Deep Fake Audio Classification
-- **Sentiment Analysis using NLP**
-- **Stock Price Prediction using Neural Networks**
-- **Breast Cancer Tumor Prediction using XGBoost**
-- **Health Insurance Fraud Detection System**
+💻 **Other Skills:** NumPy, Pandas, Matplotlib, Seaborn, Power BI, Tableau, Excel, PySpark, Flask, DVC, Git, GitHub, NLP, STT, TTS, Predictive Analysis  
 
 ---
 
-## 📚 Research, Publications & Patent
+## 🔥 Projects
 
-- 📄 **Research Paper Presentation at Scopus**  
-  *“Stock Price Prediction Using LSTM Neural Network and Deep Learning Techniques”* — Presented at **ICDSAI-2024**
-
-- 📄 **Research Paper Presentation at IEEE**  
-  *“A Unified Deep Learning Framework for Lip Reading and Deep Fake Audio Classification”* — Published at **IEEE ISPCC-2025**  
-  [Link to paper](https://ieeexplore.ieee.org/document/11039390)
-
-- 🧾 **Patent**  
-  *“System and Method for Real-Time Audiovisual Deepfake Detection Using Lip Reading and Audio Feature Fusion”*  
-  - **Filing date:** Jun 14, 2025  
-  - **Publish date:** Jul 04, 2025  
-  - **Application number:** 202541059722  
-  - **Patent Office:** India
+### 1️⃣ GenAI SQL-Powered AI Assistant + Auto Dashboard | Oct 2025  
+- Built **multilingual SQL assistant** supporting natural language & speech queries.  
+- Integrated **EURI LLM** for SQL generation & visualizations (line, bar, pie, scatter).  
+- Designed personalized dashboards with **auto-KPI detection** & customization.  
+**Tech:** Python, Streamlit, SQLAlchemy, Plotly, SpeechRecognition, EURI LLM  
+[GitHub Repo](https://github.com/omkarbhosale1623/GenAI-SQL-Query-Assistant)  
 
 ---
 
-## 📂 Featured Repositories
-
-- 🔗 [Generative_AI](https://github.com/omkarbhosale1623/Generative-AI)
-- 🔗 [LLM & Large Image Model with Gemini-Pro](https://github.com/omkarbhosale1623/LLM-Large-Image-Model-with-Gemini-Pro)
-
----
-
-## 📫 Contact
-
-- 📧 **Email**: omkarbhosale1623@gmail.com
-- 🔗 **LinkedIn**: [linkedin.com/in/omkar-bhosale-75a18122a](https://www.linkedin.com/in/omkar-bhosale-75a18122a/)
-- 💻 **GitHub**: [github.com/omkarbhosale1623](https://github.com/omkarbhosale1623)
+### 2️⃣ Bank of Maharashtra Loan Product Assistant (RAG Chatbot) | Sep 2025  
+- Developed **RAG-based chatbot** for instant & accurate loan product queries.  
+- Used LangChain + HuggingFace embeddings + FAISS, deployed on Streamlit.  
+- Integrated EURI API for secure & controlled LLM access.  
+[GitHub Repo](https://github.com/omkarbhosale1623/Bank-of-Maharashtra-Loan-Product-Assistant-using-RAG)  
 
 ---
 
+### 3️⃣ Stock Price Prediction with LSTM (ICDSAI 2024) | Nov 2023 – May 2024  
+- Built **LSTM model** for Tata Motors & M&M stock price forecasting.  
+- Created **interactive 30/90-day prediction system** with visualizations & insights.  
+[GitHub Repo](https://github.com/omkarbhosale1623/Hybrid-approach-for-Stock-Price-Prediction-with-LSTM-Neural-Network-using-Deep-Learning-Techniques)  
+
+---
+
+### 4️⃣ End-to-End ML Pipeline (Wine Quality Prediction) | Jul 2025  
+- Automated preprocessing, training (Random Forest + GridSearchCV), and evaluation.  
+- Implemented **version-controlled ML pipeline** with Git, DVC, MLflow & DagsHub.  
+[GitHub Repo](https://github.com/omkarbhosale1623/End-to-End-Machine-Learning-Pipeline-Using-GIT-DVC-MLFLOW-And-DAGSHUB)  
+
+---
+
+### 5️⃣ Other Projects  
+- **Inventory Management System** – E-commerce database & analytics  
+- **Secure Authentication & Role-Based Access Control** – Admin, Moderator, User roles  
+- **Sentiment Analysis on Airline Tweets** (76% accuracy)  
+- **Handwritten Digit Recognition (SVM)**, **Salary Estimation (KNN)**, **Breast Cancer Classification (XGBoost)**  
+
+---
+
+## 📚 Publications & Patents
+
+### Publications
+- **A Unified Deep Learning Framework for Lip Reading and Deepfake Audio Classification**, IEEE ISPCC 2025  
+- **Stock Price Prediction with LSTM**, ICDSAI 2024  
+
+### Patents
+- **System and Method for Real-Time Audiovisual Deepfake Detection Using Lip Reading and Audio Feature Fusion** – Patent No. 202541059722, Issued Jul 2025  
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarbhosale1623&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/omkar-bhosale-75a18122a/))  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:omkarbhosale1623@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1DA1F2?style=flat&logo=firefoxbrowser&logoColor=white)](#)
+
+---
+
+✨ **“Turning data into intelligent decisions and AI into reality.”**
