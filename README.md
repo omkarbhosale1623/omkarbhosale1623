@@ -134,7 +134,7 @@ I'm passionate about **research**, with **IEEE publications** and a **granted pa
 * Enabled **auto-generated dashboards** with KPIs & custom plots.
 * Used **EURI LLM** for SQL → visualization pipeline.
   **Tech:** Python, Streamlit, SQLAlchemy, Plotly, SpeechRecognition, EURI LLM
-  🔗 **Repo:** [https://github.com/omkarbhosale1623/GenAI-SQL-Query-Assistant](https://github.com/omkarbhosale1623/GenAI-SQL-Query-Assistant)
+  🔗 **Repo:** [Link](https://github.com/omkarbhosale1623/GenAI-SQL-Query-Assistant)
 
 ---
 
@@ -143,7 +143,7 @@ I'm passionate about **research**, with **IEEE publications** and a **granted pa
 * Designed **RAG architecture** for banking product information retrieval.
 * Used **FAISS + LangChain** for fast embedding-based search.
 * Deployment via Streamlit + EURI secure LLM access.
-  🔗 **Repo:** [https://github.com/omkarbhosale1623/Bank-of-Maharashtra-Loan-Product-Assistant-using-RAG](https://github.com/omkarbhosale1623/Bank-of-Maharashtra-Loan-Product-Assistant-using-RAG)
+  🔗 **Repo:** [Link](https://github.com/omkarbhosale1623/Bank-of-Maharashtra-Loan-Product-Assistant-using-RAG)
 
 ---
 
@@ -151,7 +151,7 @@ I'm passionate about **research**, with **IEEE publications** and a **granted pa
 
 * Built LSTM for **Tata Motors & M&M stock forecasts**.
 * Added interactive predictions (30/90 days).
-  🔗 **Repo:** [https://github.com/omkarbhosale1623/Hybrid-approach-for-Stock-Price-Prediction-with-LSTM-Neural-Network-using-Deep-Learning-Techniques](https://github.com/omkarbhosale1623/Hybrid-approach-for-Stock-Price-Prediction-with-LSTM-Neural-Network-using-Deep-Learning-Techniques)
+  🔗 **Repo:** [Link](https://github.com/omkarbhosale1623/Hybrid-approach-for-Stock-Price-Prediction-with-LSTM-Neural-Network-using-Deep-Learning-Techniques)
 
 ---
 
@@ -159,7 +159,7 @@ I'm passionate about **research**, with **IEEE publications** and a **granted pa
 
 * Automated ingestion → preprocessing → training → evaluation.
 * Versioned datasets + experiments using **DVC + MLflow + DagsHub**.
-  🔗 **Repo:** [https://github.com/omkarbhosale1623/End-to-End-Machine-Learning-Pipeline-Using-GIT-DVC-MLFLOW-And-DAGSHUB](https://github.com/omkarbhosale1623/End-to-End-Machine-Learning-Pipeline-Using-GIT-DVC-MLFLOW-And-DAGSHUB)
+  🔗 **Repo:** [Link](https://github.com/omkarbhosale1623/End-to-End-Machine-Learning-Pipeline-Using-GIT-DVC-MLFLOW-And-DAGSHUB)
 
 ---
 
@@ -215,11 +215,11 @@ I'm passionate about **research**, with **IEEE publications** and a **granted pa
 
 ## 📈 GitHub Stats
 
-![Omkar's GitHub stats](https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=omkarbhosale1623&theme=radical&hide_border=true)
+![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarbhosale1623&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=omkarbhosale1623&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=omkarbhosale1623&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=omkarbhosale1623&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbhosale1623&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ---
 
