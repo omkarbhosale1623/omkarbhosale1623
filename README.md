@@ -18,15 +18,27 @@ I'm passionate about **research**, with **IEEE publications** and a **granted pa
 
 # 🛠️ Skills & Tools
 
-*(Style B: GIFs beside every badge/skill where possible — flashy & GIF-rich)*
-
 ### 👨‍💻 Programming & Databases
 
-![Python Badge](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge\&logo=python\&logoColor=blue) ![Python GIF](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif)
+# 👋 Hi, I'm Omkar Bhosale
+### AI Engineer | ML & Deep Learning Enthusiast | LLM / Generative AI Specialist
 
-![SQL Badge](https://img.shields.io/badge/-SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white) ![SQL GIF](https://media.giphy.com/media/l2JhK2q2b8Yd7xWVy/giphy.gif)
+![AI GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWs4MWFjMTgyMWwwYnluczFqd2gxb2VvdnFya3l0MWVsdXExeXk2ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5k5vZwRFZR5aZeniqb/giphy.gif)
 
-![Bash Badge](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge\&logo=gnu-bash\&logoColor=white) ![Bash GIF](https://media.giphy.com/media/xUNd9HZq1it4sZyJbS/giphy.gif)
+---
+
+## 🛠️ Skills & Tools
+
+### 👨‍💻 Programming & Databases
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Python GIF](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
+![Database GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJpeTN2OXM4aHU0MnV3b3R6YWZqaGh1ZHR5dnJ3aTFqOWo4NHR6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cnuNz0fTBIUGnx4F9T/giphy.gif)
 
 * **Languages:** Python (OOP, decorators, generators), Bash, SQL
 * **Databases:** MySQL, PostgreSQL, MongoDB
@@ -34,70 +46,115 @@ I'm passionate about **research**, with **IEEE publications** and a **granted pa
 ---
 
 ### 📊 Python & Data Libraries
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=for-the-badge&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pillow](https://img.shields.io/badge/-Pillow-3776AB?style=for-the-badge&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-![NumPy Badge](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white) ![NumPy GIF](https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif)
-
-![Pandas Badge](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white) ![Pandas GIF](https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif)
-
-![Matplotlib Badge](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge) ![Matplotlib GIF](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)
-
-![OpenCV Badge](https://img.shields.io/badge/-OpenCV-000000?style=for-the-badge\&logo=opencv\&logoColor=white) ![OpenCV GIF](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)
+![Data Analysis GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VpNmRnbGNmZGd5NjZ2aDJxYXB6aWRpbWlrdWNnOGRyODJrZHdodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlHJGHe3yAMhdQY/giphy.gif)
+![Visualization GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5xaWdpMWR3d2xleXpqeW52aTJxd2JrbGd6ODN0dTQwMnk5dGt0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif)
 
 * NumPy, Pandas, Matplotlib, Seaborn, OpenCV, Pillow, Scikit-learn
 
 ---
 
 ### 🤖 Machine Learning & Time Series
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-337AB7?style=for-the-badge&logoColor=white)
+![LightGBM](https://img.shields.io/badge/-LightGBM-02569B?style=for-the-badge&logoColor=white)
+![CatBoost](https://img.shields.io/badge/-CatBoost-FFCC00?style=for-the-badge&logoColor=black)
+![Prophet](https://img.shields.io/badge/-Prophet-4267B2?style=for-the-badge&logo=meta&logoColor=white)
 
-![ML Badge](https://img.shields.io/badge/-Machine%20Learning-0A0A0A?style=for-the-badge) ![ML GIF](https://media.giphy.com/media/l0HlQ7LRal3f9cZ1a/giphy.gif)
+![ML GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTV6dGVpOWV4cDN4NWI5eWQ0aHV6cGd0aDQ2d2UzZjJsdzQxOWV0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btPCcdNniyf0ArS/giphy.gif)
+![Time Series GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxwN3N3bjBnaWN2ZzZxNmN6MWxtMXB3ZjdlcmZqNXVjbWR2cjl1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif)
 
-* Linear/Logistic Regression, Decision Trees, Random Forests, XGBoost/LightGBM/CatBoost, SVM, k-NN
-* Clustering: KMeans, DBSCAN, Hierarchical; PCA for dimensionality reduction
-* Time-series: ARIMA/ARMA, Facebook Prophet, LSTM models
+* **Supervised:** Linear/Logistic Regression, Decision Trees, Random Forests, XGBoost/LightGBM/CatBoost, SVM, k-NN
+* **Unsupervised:** Clustering (KMeans, DBSCAN, Hierarchical), PCA for dimensionality reduction
+* **Time-series:** ARIMA/ARMA, Facebook Prophet, LSTM models
 
 ---
 
 ### 🧠 Deep Learning & Computer Vision
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![CNN](https://img.shields.io/badge/-CNN-0f0f0f?style=for-the-badge)
+![MLP](https://img.shields.io/badge/-MLP-0f0f0f?style=for-the-badge)
+![Transfer Learning](https://img.shields.io/badge/-Transfer_Learning-009688?style=for-the-badge)
 
-![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white) ![TF GIF](https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif)
+![Deep Learning GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNoNm5yOHV6bXNsbWR4aGRxdGc4eTI4dXpxbTllb2VoY2ZyNGt5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
+![Computer Vision GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNhMWQzamZhbXBhcDZjOHQ2Y3B0ZzY1N2p5eTM3OWNtZWMxNzhnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif)
 
-![PyTorch Badge](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white) ![Torch GIF](https://media.giphy.com/media/3o6ZsYcQhW8p3iQ0a0/giphy.gif)
-
-* TensorFlow, Keras, PyTorch — CNNs, MLPs, Transfer Learning (VGG, ResNet, MobileNet, EfficientNet)
-* CV tasks: classification, detection (intro), segmentation (U-Net overview), lip-reading models
+* **Frameworks:** TensorFlow, Keras, PyTorch — CNNs, MLPs, Transfer Learning (VGG, ResNet, MobileNet, EfficientNet)
+* **CV Tasks:** Classification, Object Detection (intro), Segmentation (U-Net overview), Lip-reading models
 
 ---
 
 ### 🤖 Generative AI, LLMs & Agents
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GPT](https://img.shields.io/badge/-GPT-FF9900?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/-Gemini-6A5ACD?style=for-the-badge&logo=google&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-F7900B?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-FF6F61?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6B6B?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=for-the-badge)
+![Weaviate](https://img.shields.io/badge/-Weaviate-00C9A7?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/-CrewAI-FF4B4B?style=for-the-badge)
 
-![OpenAI Badge](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white) ![OpenAI GIF](https://media.giphy.com/media/xUOxfjsW8kXgp0xv70/giphy.gif)
+![LLM GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWE5YTB3OHdxbmZ3cWZrbGRoaDFzdTdoOHp1eXRvcHU1czBqMzhlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlQXlQ3nHyLMvte/giphy.gif)
+![AI Assistant GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhzZXNpMmk3YnN6emN2Y3kzMzJvNHprenJ0dXJqcGQ2eTByY2tuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif)
 
-![LangChain Badge](https://img.shields.io/badge/-LangChain-121212?style=for-the-badge) ![LangChain GIF](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
-
-![HuggingFace Badge](https://img.shields.io/badge/-HuggingFace-FFCA28?style=for-the-badge\&logo=huggingface\&logoColor=black) ![HF GIF](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
-
-* LLMs: OpenAI, Gemini, Hugging Face models
-* Embeddings & Vector DBs: FAISS, ChromaDB, Pinecone, Qdrant, Weaviate
-* RAG pipelines, LangChain agents, LangGraph, CrewAI, MCP integrations
+* **LLMs:** OpenAI (GPT-3.5, GPT-4), Google Gemini, Hugging Face models
+* **Embeddings & Vector DBs:** FAISS, ChromaDB, Pinecone, Qdrant, Weaviate
+* **Frameworks:** RAG pipelines, LangChain agents, LangGraph, CrewAI, MCP integrations
 
 ---
 
 ### 🛠️ MLOps & LLMOps
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/-DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/-EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![S3](https://img.shields.io/badge/-S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![SageMaker](https://img.shields.io/badge/-SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/-Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white) ![Docker GIF](https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif)
+![MLOps GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ5d3o0OXNudHR2NjU2NHdxZzFzanh6YWVqcmNlNjV6N3o4M3ZpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif)
+![DevOps GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGttZXl6NHhqN2xzaWNlaTh0YXBvcmY4d3VudmtuOWJ6MHRnc2JuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ln7z2eWriiQAllfVcn/giphy.gif)
 
-![AWS Badge](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white) ![AWS GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
-* MLflow, DVC, GitHub Actions (CI/CD), Docker, Airflow
-* AWS (EC2, S3, SageMaker, Bedrock), Vertex AI, Grafana
+* **Experiment Tracking:** MLflow, DVC
+* **CI/CD:** GitHub Actions
+* **Orchestration:** Docker, Airflow
+* **Cloud:** AWS (EC2, S3, SageMaker, Bedrock), Google Vertex AI
+* **Monitoring:** Grafana
 
 ---
 
 ### 📐 Core Math & Statistics
+![Mathematics](https://img.shields.io/badge/-Mathematics-4B0082?style=for-the-badge&logo=wolfram&logoColor=white)
+![Statistics](https://img.shields.io/badge/-Statistics-1F77B4?style=for-the-badge&logo=scipy&logoColor=white)
+![Linear Algebra](https://img.shields.io/badge/-Linear_Algebra-FF6B35?style=for-the-badge)
+![Calculus](https://img.shields.io/badge/-Calculus-2E7D32?style=for-the-badge)
+![Optimization](https://img.shields.io/badge/-Optimization-9C27B0?style=for-the-badge)
 
-![Math Badge](https://img.shields.io/badge/-Math%20%26%20Stats-7B61FF?style=for-the-badge) ![Math GIF](https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif)
+![Math GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhqdTV4Zm1wbjFpOTd0cW5ldGFib2JkdHo4ZTM4OGJudGE5OGRhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UCDCxzF6U5OTWfNBq/giphy.gif)
+![Statistics GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXN5dWV6N3BrZWZqZHRxY2J3eWE1bjBucnYydjE4NWFyZnNtcGw4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
 
-* Probability & Statistics, Linear Algebra, Calculus, Optimization, Backpropagation intuition
+* **Probability & Statistics:** Hypothesis testing, Distributions, Bayesian inference
+* **Linear Algebra:** Matrix operations, Eigenvalues, SVD
+* **Calculus:** Derivatives, Gradients, Chain rule
+* **Optimization:** Gradient descent, Adam, SGD
+* **Deep Learning Math:** Backpropagation intuition, Loss functions
 
 ---
 
@@ -192,7 +249,7 @@ I'm passionate about **research**, with **IEEE publications** and a **granted pa
 
 # 📈 GitHub Stats
 
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarbhosale1623\&show_icons=true\&theme=radical)
+![Omkar's GitHub stats]()
 
 ---
 
@@ -201,6 +258,8 @@ I'm passionate about **research**, with **IEEE publications** and a **granted pa
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/omkar-bhosale-75a18122a/) ![LinkedIn GIF](https://media.giphy.com/media/3o7aD6pZ0s8b7l6nGk/giphy.gif)
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:omkarbhosale1623@gmail.com) ![Mail GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+[![GitHub](https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omkarbhosale1623/omkarbhosale1623)
 
 ---
 
@@ -213,3 +272,7 @@ If you'd like to collaborate, open an issue or discussion — I'm always happy t
 ---
 
 ✨ **“Turning data into intelligent decisions and AI into reality.”**
+
+![Footer GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlhY2k4ajdudXNzNG4yazd4cjJodWp6eDZib3ZxbHJlMDJkeXl3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
+
+---
