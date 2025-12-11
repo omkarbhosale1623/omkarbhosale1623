@@ -215,15 +215,19 @@ I'm passionate about **research**, with **IEEE publications** and a **granted pa
 
 # 📈 GitHub Stats
 
-![Omkar's GitHub stats]()
+![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarbhosale1623&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omkarbhosale1623&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbhosale1623&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ---
 
 # 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/omkar-bhosale-75a18122a/) ![LinkedIn GIF](https://media.giphy.com/media/3o7aD6pZ0s8b7l6nGk/giphy.gif)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/omkar-bhosale-75a18122a/) 
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:omkarbhosale1623@gmail.com) ![Mail GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:omkarbhosale1623@gmail.com) 
 
 [![GitHub](https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omkarbhosale1623/omkarbhosale1623)
 
