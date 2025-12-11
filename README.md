@@ -217,7 +217,7 @@ I'm passionate about **research**, with **IEEE publications** and a **granted pa
 
 ![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarbhosale1623&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omkarbhosale1623&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=omkarbhosale1623&theme=radical&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbhosale1623&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
