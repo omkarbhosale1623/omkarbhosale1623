@@ -213,7 +213,7 @@ I'm passionate about **research**, with **IEEE publications** and a **granted pa
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 ![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarbhosale1623&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
