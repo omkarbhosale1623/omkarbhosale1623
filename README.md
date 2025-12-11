@@ -16,31 +16,16 @@ I'm passionate about **research**, with **IEEE publications** and a **granted pa
 
 ---
 
-# 🛠️ Skills & Tools
-
-### 👨‍💻 Programming & Databases
-
-# 👋 Hi, I'm Omkar Bhosale
-### AI Engineer | ML & Deep Learning Enthusiast | LLM / Generative AI Specialist
-
-![AI GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWs4MWFjMTgyMWwwYnluczFqd2gxb2VvdnFya3l0MWVsdXExeXk2ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5k5vZwRFZR5aZeniqb/giphy.gif)
-
----
-
 ## 🛠️ Skills & Tools
 
 ### 👨‍💻 Programming & Databases
 ![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Python GIF](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
-![Database GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJpeTN2OXM4aHU0MnV3b3R6YWZqaGh1ZHR5dnJ3aTFqOWo4NHR6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cnuNz0fTBIUGnx4F9T/giphy.gif)
-
-* **Languages:** Python (OOP, decorators, generators), Bash, SQL
+* **Languages:** Python (OOP, decorators, generators), SQL
 * **Databases:** MySQL, PostgreSQL, MongoDB
 
 ---
@@ -54,9 +39,6 @@ I'm passionate about **research**, with **IEEE publications** and a **granted pa
 ![Pillow](https://img.shields.io/badge/-Pillow-3776AB?style=for-the-badge&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-![Data Analysis GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VpNmRnbGNmZGd5NjZ2aDJxYXB6aWRpbWlrdWNnOGRyODJrZHdodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlHJGHe3yAMhdQY/giphy.gif)
-![Visualization GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5xaWdpMWR3d2xleXpqeW52aTJxd2JrbGd6ODN0dTQwMnk5dGt0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif)
-
 * NumPy, Pandas, Matplotlib, Seaborn, OpenCV, Pillow, Scikit-learn
 
 ---
@@ -66,10 +48,6 @@ I'm passionate about **research**, with **IEEE publications** and a **granted pa
 ![XGBoost](https://img.shields.io/badge/-XGBoost-337AB7?style=for-the-badge&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/-LightGBM-02569B?style=for-the-badge&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/-CatBoost-FFCC00?style=for-the-badge&logoColor=black)
-![Prophet](https://img.shields.io/badge/-Prophet-4267B2?style=for-the-badge&logo=meta&logoColor=white)
-
-![ML GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTV6dGVpOWV4cDN4NWI5eWQ0aHV6cGd0aDQ2d2UzZjJsdzQxOWV0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btPCcdNniyf0ArS/giphy.gif)
-![Time Series GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxwN3N3bjBnaWN2ZzZxNmN6MWxtMXB3ZjdlcmZqNXVjbWR2cjl1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif)
 
 * **Supervised:** Linear/Logistic Regression, Decision Trees, Random Forests, XGBoost/LightGBM/CatBoost, SVM, k-NN
 * **Unsupervised:** Clustering (KMeans, DBSCAN, Hierarchical), PCA for dimensionality reduction
@@ -84,9 +62,6 @@ I'm passionate about **research**, with **IEEE publications** and a **granted pa
 ![CNN](https://img.shields.io/badge/-CNN-0f0f0f?style=for-the-badge)
 ![MLP](https://img.shields.io/badge/-MLP-0f0f0f?style=for-the-badge)
 ![Transfer Learning](https://img.shields.io/badge/-Transfer_Learning-009688?style=for-the-badge)
-
-![Deep Learning GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNoNm5yOHV6bXNsbWR4aGRxdGc4eTI4dXpxbTllb2VoY2ZyNGt5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
-![Computer Vision GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNhMWQzamZhbXBhcDZjOHQ2Y3B0ZzY1N2p5eTM3OWNtZWMxNzhnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 * **Frameworks:** TensorFlow, Keras, PyTorch — CNNs, MLPs, Transfer Learning (VGG, ResNet, MobileNet, EfficientNet)
 * **CV Tasks:** Classification, Object Detection (intro), Segmentation (U-Net overview), Lip-reading models
@@ -107,9 +82,6 @@ I'm passionate about **research**, with **IEEE publications** and a **granted pa
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge)
 ![CrewAI](https://img.shields.io/badge/-CrewAI-FF4B4B?style=for-the-badge)
 
-![LLM GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWE5YTB3OHdxbmZ3cWZrbGRoaDFzdTdoOHp1eXRvcHU1czBqMzhlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlQXlQ3nHyLMvte/giphy.gif)
-![AI Assistant GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhzZXNpMmk3YnN6emN2Y3kzMzJvNHprenJ0dXJqcGQ2eTByY2tuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif)
-
 * **LLMs:** OpenAI (GPT-3.5, GPT-4), Google Gemini, Hugging Face models
 * **Embeddings & Vector DBs:** FAISS, ChromaDB, Pinecone, Qdrant, Weaviate
 * **Frameworks:** RAG pipelines, LangChain agents, LangGraph, CrewAI, MCP integrations
@@ -127,10 +99,7 @@ I'm passionate about **research**, with **IEEE publications** and a **granted pa
 ![S3](https://img.shields.io/badge/-S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![SageMaker](https://img.shields.io/badge/-SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/-Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-![MLOps GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ5d3o0OXNudHR2NjU2NHdxZzFzanh6YWVqcmNlNjV6N3o4M3ZpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif)
-![DevOps GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGttZXl6NHhqN2xzaWNlaTh0YXBvcmY4d3VudmtuOWJ6MHRnc2JuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ln7z2eWriiQAllfVcn/giphy.gif)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) 
 
 * **Experiment Tracking:** MLflow, DVC
 * **CI/CD:** GitHub Actions
@@ -146,9 +115,6 @@ I'm passionate about **research**, with **IEEE publications** and a **granted pa
 ![Linear Algebra](https://img.shields.io/badge/-Linear_Algebra-FF6B35?style=for-the-badge)
 ![Calculus](https://img.shields.io/badge/-Calculus-2E7D32?style=for-the-badge)
 ![Optimization](https://img.shields.io/badge/-Optimization-9C27B0?style=for-the-badge)
-
-![Math GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhqdTV4Zm1wbjFpOTd0cW5ldGFib2JkdHo4ZTM4OGJudGE5OGRhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UCDCxzF6U5OTWfNBq/giphy.gif)
-![Statistics GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXN5dWV6N3BrZWZqZHRxY2J3eWE1bjBucnYydjE4NWFyZnNtcGw4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 * **Probability & Statistics:** Hypothesis testing, Distributions, Bayesian inference
 * **Linear Algebra:** Matrix operations, Eigenvalues, SVD
